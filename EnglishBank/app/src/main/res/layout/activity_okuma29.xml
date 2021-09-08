@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".okuma29">
+
+    <TextView
+        android:id="@+id/textView27"
+        android:layout_width="wrap_content"
+        android:layout_height="306dp"
+        android:layout_marginStart="4dp"
+        android:layout_marginLeft="4dp"
+        android:layout_marginTop="4dp"
+        android:text="The little girl was thirsty. She wanted something to drink. She opened the refrigerator. She looked inside. She saw milk. She saw soda. She saw orange juice. She saw beer. She wondered what beer tasted like. Her daddy drank beer every day. Beer must be good. If Daddy likes it, it must taste good. She grabbed a can of beer. She opened the beer. She smelled it. She couldn't smell anything. She swallowed some. “Yuck!” she said. The beer was horrible. How could Daddy drink that stuff? She put the can back into the refrigerator. Daddy could finish it when he got home. She grabbed the milk. She poured some into a glass. She added chocolate syrup to the milk. She stirred the milk. Now she had chocolate milk. She loved chocolate milk. Poor Daddy, she thought. He likes beer more than chocolate milk."
+        android:textSize="16sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+</android.support.constraint.ConstraintLayout>

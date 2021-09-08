@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".okuma9">
+
+    <TextView
+        android:id="@+id/textView7"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="4dp"
+        android:layout_marginLeft="4dp"
+        android:layout_marginTop="6dp"
+        android:text="Mama was in the garden. “What are you doing?” Johnny asked. She said she was planting roses. Roses are flowers. They are very pretty. They are usually red. Roses have thorns. His mama said, “Thorns will stick you. Be careful around thorns.” Johnny went to the front yard. His dog Rex was waiting for him. Johnny picked up a stick and threw it. Rex chased the stick. He brought the stick back. Johnny ran around the house. Rex chased him. Johnny ran through the garden. Rex ran through the garden. Mom yelled at Johnny and Rex. She told them to play somewhere else. She told them to stay out of the garden. Johnny apologized to his mom. He went to the garage and got his bike. He went for a bike ride. Rex ran next to the bike."
+        android:textSize="16sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+</android.support.constraint.ConstraintLayout>

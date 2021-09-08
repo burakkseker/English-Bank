@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".okuma15">
+
+    <TextView
+        android:id="@+id/textView14"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="7dp"
+        android:layout_marginLeft="7dp"
+        android:layout_marginTop="6dp"
+        android:text="I am happy. I have many friends. I have a large family. I have four brothers and four sisters. I am in the middle. Four brothers are older than me. Four sisters are younger than me. I go to school. I am in the sixth grade. I like my teachers. My teachers like me. I have friends in every class. My favorite class is history. I like to read about history. History is a story about our past. Soon we will all be history. Then kids in school will read about us. I hope they like our stories. My best friend is Bobby. Bobby and I do many things together. We swim together. We play basketball together. We ride our bikes together. I have many other friends. We all go to the mall on weekends. We go to movies. We go to restaurants. We tell jokes. We laugh. We have fun. Life is great."
+        android:textSize="16sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+</android.support.constraint.ConstraintLayout>

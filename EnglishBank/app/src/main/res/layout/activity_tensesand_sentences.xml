@@ -1,0 +1,576 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".TensesandSentences"
+    tools:layout_editor_absoluteY="81dp">
+
+
+    <ScrollView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:id="@+id/textView"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="1 – PRESENT CONTINUOUS TENSE – (ŞİMDİKİ ZAMAN)
+
+POSITIVE:  (+) Subject + BE (am is are) + Verb-ING
+
+I am learning English in this site. / Bu sitede ingilizce öğreniyorum.
+
+NEGATIVE:  (-) Subject + BE NOT (am not isn’t aren’t) + Verb-ING
+
+I am not learning German in this site. / Bu sitede Almanca öğrenmiyorum.
+
+QUESTION:  (?) BE (am is are) + Subject + Verb-ING ?
+
+Am I speaking English well? / Ben İngilizceyi güzel konuşuyor muyum?
+
+NEGATIVE QUESTION:  (-?) BE NOT (isn’t aren’t) + Subject + Verb-ING ?
+
+*Aren’t I speaking English well? / Ben İngilizceyi güzel konuşmuyor muyum?
+
+Isn’t he playing tennis at present? / Şu anda o tenis oynamıyor mu?
+
+Birinci tekil şahıs I öznesindeki kullanıma dikkat edin. Am not I degil Aren’t I olarak kullanılır.
+
+                                                                                       2 – SIMPLE PRESENT TENSE – GENİŞ ZAMAN Olumlu, olumsuz ve soru şekillerini gösteren tablolar.
+
+POSITIVE (+): I, you, we, they + verb       (he,she,it + verbs)
+
+She writes letters to her aunt. / O halasına mektup yazar.
+
+NEGATIVE(-): I, you, we, they+don’t verb (he, she, it +doesn’t Verb)
+
+I don’t like pork. / Domuz etini sevmem.
+
+She doesn’t work on Saturdays. / O cumartesi günleri çalışmaz.
+
+QUESTION(?): Do I, you, we, they + verb ? (does he, she, it + Verb ?
+
+Do you go out in the evenings? / Akşamları dışarı çıkar mısın?
+
+Does it make noise? / O gürültü yapar mı?
+
+NEGATIVE QUESTION(-?): Don’t I, you, we, they + verb? (doesn’t he, she, it + verb ?
+
+Don’t I tell the truth? / Ben gerçeği söylemez miyim?
+
+Doesn’t he lend you any money? / Sana hiç ödünç para vermez mi?
+
+
+
+
+
+   3 – SIMPLE PAST TENSE – (Dİ’Lİ GEÇMİŞ ZAMAN). Olumlu, olumsuz ve soru şekillerini gösteren tablolar.
+
+
+
+POSITIVE: (+) I, you, he, she, it, we, you, they + verb2
+
+She wrote a letter to her aunt. O halasına bir mektup yazdı.
+
+They wanted to change the rules. Onlar kuralları değiştirmek istedi.
+
+NEGATIVE: (-) I, you, he, she, it, we, you, they + didn’t verb1
+
+I didn’t play well in the match. Maçta iyi oynamadın.
+
+It didn’t rain a lot on that day. O gün çok yağmur yağmadı.
+
+They didn’t want to believe this. Onlar buna inanmak istemedi.
+
+QUESTION: (?) Did I, you, he, she, it, we, you, they + verb1 ?
+
+Did I tell lies? Ben yalan mı söyledim?
+
+Did it snow here last week? Geçen hafta burada kar yağdı mı?
+
+NEGATIVE QUES.: (-?) Didn’t I, you, he, she, it, we, you, they + verb 1?
+
+Didn’t I tell the truth? Ben gerçeği söylemedim mi?
+
+Didn’t it snow in winter? Kışın kar yağmadı mı?
+
+Didn’t they lend you any money? Sana hiç ödünç para vermediler mi?
+
+4 – SIMPLE FUTURE TENSE   (GELECEK ZAMAN)  Olumlu, olumsuz ve soru şekillerini gösteren tablolar.
+
+POSITIVE: (+) I, you, he, she, it, we, you, they + will + verb
+
+You will see who is right. Kimin haklı olduğunu göreceksin.
+
+She will call you tonight. O bu gece sana telefon edecek.
+
+They will accept our offer. Onlar teklifimizi kabul edecekler.
+
+NEGATIVE:  (-) I, you, he, she, it, we, you, they + will not (won’t)
+
+I won’t cheat you. Seni (sizi) aldatmayacağım.
+
+It won’t be so easy to do it. Onu yapmak pek kolay olmayacak.
+
+You won’t lend them any money. Onlara hiç borç para vermeyeceksiniz.
+
+QUESTION: (?) Will I, you, he, she, it, we, you, they + verb ?
+
+Will you break the rules? Kuralları bozacak mısın?
+
+Will they do us a favour? Bize bir iyilik yapacaklar mı?
+
+NEG-QUEST: (-?) Won’t I, you, he, she, it, we, you, they + verb ?
+
+Won’t I tell the truth? Ben hakikatı söylemiyecek miyim?
+
+Won’t they lend you any money? Sana hiç ödünç para vermeyecekler mi?
+
+5 – PAST CONTINUOUS TENSE   (ŞİMDİKİ ZAMANIN HİKAYESİ)  Olumlu, olumsuz ve soru şekillerini gösteren tablolar.
+
+
+
+POSITIVE / OLUMLU(+):
+
+ I, he, she, it + was + verb-ing  /  we, you, they + were + verb-ing
+
+I was drinking a cup of coffee. Ben bir fincan kahve içiyordum.
+
+It was raining cats and dogs. Bardaktan boşanırcasına yağmur yağıyordu.
+
+NEGATIVE / OLUMSUZ(-):
+
+ I,he,she,it + was not (wasn’t)verb-ing / You,we,they + were not (weren’t) verb-ing
+
+I wasn’t watching TV when you came. Sen geldiğinde TV izlemiyordum.
+
+You weren’t playing tennis at 10.30. 10.30 da tennis oynamıyordunuz.
+
+It wasn’t raining when we arrived. Vardığımızda yağmur yağmıyordu.
+
+They weren’t obeying the rules. Onlar kurallara itaat etmiyorlardı.
+
+QUESTION / SORU (?):
+
+Was I, he, she, it + verb-ing ? / Were we, you, they + verb-ing?
+
+Was I sleeping when you came home? : Sen eve geldiğinde ben uyuyor muydum?
+
+Were you doing homework while I was sleeping? : Ben uyuyorken sen ödev mi yapıyordun?
+
+Was he relaxing while we were working? : Biz çalışıyorken o dinleniyor muydu?
+
+Was she having breakfast? : O kahvaltı mı yapıyordu?
+
+Was it raining at 12 o’clock yesterday? : Dün saat 12’de yağmur yağıyor muydu ?
+
+Were we watching the video when they came? : Onlar geldiğinde biz video mu izliyorduk?
+
+Were you chatting about the current events? : Güncel olaylar hakkında sohbet mi yapıyordunuz?
+
+Were they having dinner when we arrived? : Biz vardığımızda onlar akşam yemeğini mi yiyorlardı?
+
+NEGATIVE QUESTION / OLUMSUZ SORU(-?):
+
+Wasn’t I, he, she, it + verb-ing ? / weren’t we, you, they + verb-ing?
+
+Wasn’t I telling the truth? : Ben hakikatı söylemiyor muydum?
+
+Weren’t you having a rest? : Sen dinlenmiyor muydun?
+
+Wasn’t he watching the match? : O maç izlemiyor muydu?
+
+Wasn’t she drinking coffee? : O kahve içmiyor muydu?
+
+Wasn’t it snowing then ? : O zaman kar yağmıyor muydu?
+
+Weren’t we doing shopping at this time yesterday? : Dün bu vakitte alışveriş yapmıyor muyduk?
+
+Weren’t you waiting for your friends? : Siz arkadaşlarınızı beklemiyor muydunuz?
+
+Weren’t they washing the dishes? : Onlar bulaşıkları yıkamıyorlar mıydı?
+
+6 – BE GOING TO   – YAKIN (KESİN) GELECEK ZAMAN  Olumlu, olumsuz ve soru şekillerini gösteren tablolar.
+
+POSITIVE / OLUMLU (+):
+
+I + am going to + verb  /  he, she, it + is going to + verb  /  we, you, they + are going to + verb
+
+I am going to drink a cup of coffee. : Ben bir fincan kahve içeceğim.
+
+Be careful! You are going to fall. : Dikkat et! Düşeceksin.
+
+He is going to play tennis at the weekend. : O hafta sonu tenis oynayacak.
+
+She is going to wait for you at the bus stop. : O otobüs durağında seni bekleyecek.
+
+Look at the clouds! It is going to rain. : Bulutlara bak! Yağmur yağacak.
+
+We are going to walk in the park. : Biz parkta gezeceğiz.
+
+You are going to win the game. : Oyunu kazanacaksın.
+
+They are going to listen to the weather broadcast on radio. : Onlar radyodaki hava durumu tahminini dinleyecekler.
+
+NEGATIVE / OLUMSUZ (-):
+
+I+ am not going to + verb  /  he,she,it + isn’t going to + verb / You, we, they + aren’t not going to + verb
+
+I am not going to watch TV tonight. : Bu gece ben TV izlemiyeceğim.
+
+You aren’t going to have shower. : Duş almayacaksın.
+
+He isn’t going to come on time. : O vaktinde gelmeyecek.
+
+She isn’t going to get angry with you. : O sana kızmayacak.
+
+It isn’t going to rain today. : Bugün yağmur yağmayacak.
+
+We aren’t going to work at the weekends.: Biz hafta sonu çalışmayacağız.
+
+You aren’t going to listen to his insults.: Onun hakaretlerini dinlemeyeceksin.
+
+They aren’t going to obey the rules.: Onlar kurallara itaat etmeyecekler.
+
+QUESTION / SORU(?):
+
+Am I + going to + verb  /  Is + he, she, it + going to + verb ? / Are + we, you, they + going to + verb?
+
+Am I going to fall down? : Ben düşecek miyim?
+
+Are you going to sleep? : Sen uyuyacak mısın?
+
+Is he going to work late? : Geç saatlere kadar çalışacak mı?
+
+Is she going to have coffee? : O kahve alacak mı?
+
+Is it going to rain this afternoon? : Bu öğleden sonra yağmur yağacak mı?
+
+Are we going to watch the video tonight? : Bu gece video izleyecek miyiz?
+
+Are you going to talk about the current events? : Güncel olaylar hakkında sohbet konuşacak mısınız?
+
+Are they going to have dinner in the restaurant? : Onlar akşam yemeğini restorantta mı yiyecekler?
+
+NEGATIVE QUESTION / OLUMSUZ SORU (-?):
+
+Aren’t I + going to + verb  /  Is + he, she, it + going to + verb ? / Aren’t + we, you, they + going to + verb?
+
+Aren’t I going to tell the truth? : Ben hakikatı söylemiyecek miyim?
+
+Aren’t you going to have a rest? : Sen dinlenmiyecek misin?
+
+Isn’t he going to watch the match? : O maçı izlemiyecek mi?
+
+Isn’t she going to drink coffee? : O kahve içmeyecek mi?
+
+Isn’t it going to snow? : Kar yağmayacak mı?
+
+Aren’t we going to do shopping? : Alışveriş yapmayacak mıyız?
+
+Aren’t you going to wait for your friends? : Arkadaşlarınızı beklemeyecek misiniz?
+
+Aren’t they going to wash the dishes? : Onlar bulaşıkları yıkamıyacaklar mı?
+
+7 – PRESENT PERFECT TENSE – YAKIN GEÇMİŞ ZAMAN Olumlu, olumsuz ve soru şekillerini gösteren tablolar.
+
+POSITIVE / OLUMLU (+):
+
+I, you, we, they + have verb3  /  he, she, it + has verb3
+
+I have been to Istanbul. : Ben Istanbul’da bulundum.
+
+You have been late. : Sen geç kaldın.
+
+He has washed his hair. : O saçını yıkadı.
+
+She has cooked the meal. : O yemeği pişirdi.
+
+It has been very cold. : Hava çok soğuk oldu.
+
+We have had four test so far. : Şimdiye dek dört test olduk.
+
+You have written the wrong number. : Siz yanlış numara yazdınız.
+
+They have returned from abroad. : Onlar yurdışından döndüler.
+
+NEGATIVE / OLUMSUZ(-):
+
+ I, you, we, you, they + haven’t verb3  /  he, she, it + hasn’t verb3
+
+I haven’t been to Paris. : Ben Paris’de bulunmadım.
+
+You haven’t given me the key. : Sen bana anahtarı vermedin.
+
+He hasn’t broken his arm. : O kolunu kırmadı.
+
+She hasn’t cleaned the room. : O odayı temizlemedi.
+
+It hasn’t bit my leg. : O benim bacağımı ısırmadı.
+
+We haven’t found a solution yet. : Biz henüz bir çözüm bulamadık.
+
+You haven’t made any mistake. : Siz hiç hata yapmadınız.
+
+They haven’t canceled the match. : Onlar maçı iptal etmediler.
+
+QUESTION / SORU(?):
+
+Have I, you, you, they + verb3 ? /  Has he, she, it, we verb3 ?
+
+Have I told you lies? : Ben sana yalan söyledim mi?
+
+Have you finished your homework? : Ödevini bitirdin mi?
+
+Has he lost his wallet? : O cüzdanını kaybetti mi?
+
+Has she played tennis? : O tenis mi oynadı?
+
+Has it rained for an hour? : Bir saat boyunca yağmur mu yağdı?
+
+Have we paid our debts? : Borçlarımızı ödedik mi?
+
+Have you ever been to Istanbul? : Siz hiç Istanbul’da bulundunuz mu?
+
+Have they seen the film? : Onlar filmi gördüler mi?
+
+NEGATIVE QUESTION / OLUMSUZ SORU(-?):
+
+Haven’t I, you, we, you, they + verb3 ? / Hasn’t he, she, it + verb3 ?
+
+Haven’t I told you the truth? : Ben sana gerçeği söylemedim mi?
+
+Haven’t you read that book? : Sen o kitabı okumadın mı?
+
+Hasn’t he played tennis with her? : Onunla tenis oynamadı mı?
+
+Hasn’t she bought the present yet? : O henüz hediyeyi almadı mı?
+
+Hasn’t it snowed since I came in? : İçeri girdiğimden beri kar yağmadı mı?
+
+Haven’t we studied hard for the exam? : Sınav için yoğun çalışmadık mı?
+
+Haven’t you told her the truth? : Ona gerçeği anlatmadın mı?
+
+Haven’t they lent you any money? : Sana ödünç para vermediler mi?
+
+8 – PAST PERFECT TENSE – MİŞ’Lİ GEÇMİŞ ZAMAN Olumlu, olumsuz ve soru şekillerini gösteren tablolar.
+
+POSITIVE / OLUMLU(+):
+
+I, you, we, they + had verb3  /  he, she, it + had verb3
+
+I had eaten the cake before the tea was served. : Çay servisi yapılmadan önce keki yemiştim.
+
+You had been late. : Sen geç kalmıştın.
+
+After he had studied hard, he passed the exam. : Sıkı çalıştıktan sonra sınavı geçti.
+
+She had cleaned the room before the guests came. : Misafirler gelmeden önce odayı temizlemişti.
+
+It had rained all day. : Bütün gün yağmur yağmıştı.
+
+After we had played the game, we went to the beach. : Oyun oynadıktan sonra plaja gittik.
+
+You had promised me to do it before I gave it to you? : Onu sana vermeden önce sen bana onu yapmaya söz vermiştin.
+
+They had gone out before we came. : Biz gelmeden önce onlar dışarı çıkmışlardı.
+
+NEGATIVE / OLUMSUZ(-):
+
+I, you, we, you, they + hadn’t verb3  /  he, she, it + hadn’t verb3
+
+I hadn’t locked the door. : Kapıyı kilitlememiştim.
+
+After you had your dinner you didn’t drink the medicine. : Akşam yemeğini yedikten sonra ilacını içmedin.
+
+He hadn’t had lunch with us. : O bizimle birlikte öğle yemeğini yememişti.
+
+She hadn’t cleaned the room. : Odayı temizlememişti.
+
+It hadn’t eaten the bone. : Kemiği yememişti.
+
+We hadn’t played the match very well. : Biz maçı çok iyi oynamamıştık.
+
+You hadn’t told us the truth. : Siz bize doğruyu söylememiştiniz.
+
+They hadn’t studied hard. : Onlar sıkı çalışmamışlardı.
+
+QUESTION / SORU(?):
+
+Had I, you, you, they + verb3 ?  /  Had he, she, it, we verb3 ?
+
+Had I brought the key with me? : Ben anahtarı yanımda getirmiş miydim?
+
+Had you taken the pill before you went to bed? : Yatmadan önce hapı içmiş miydin? (almış mıydın?)
+
+Had he smoked inside before we came? : Biz gelmeden önce içeride sigara içmiş miydi?
+
+Had she thought that before he told her? : Ona söylemeden önce o onu düşünmüş müydü?
+
+Had it drunk the poison? : Zehiri içmiş miydi?
+
+Had we fulfilled all our responsibilities? : Biz tüm sorumluluklarımızı yerine getirmiş miydik?
+
+Had you book a double room before you came? : Siz gelmeden önce iki kişilik bir oda ayırtmış mıydınız?
+
+Had they canceled the exam before the candidates came? : Adaylar gelmeden önce sınavı iptal etmişler miydi?
+
+NEGATIVE QUESTION / OLUMSUZ SORU(-?):
+
+Hadn’t I, you, we, you, they + verb3 ? /  Hadn’t he, she, it + verb3 ?
+
+Hadn’t I locked the door? : Ben kapıyı kilitlememiş miydim?
+
+Hadn’t you taken the pills? : Sen hapları içmemiş miydin? (almamış mıydın?)
+
+Hadn’t he turned off his mobile phone before the meeting started? : Toplantı başlamadan önce o cep telefonunu kapatmamış mıydı?
+
+Hadn’t she passed the exam? : O sınavı geçmemiş miydi?
+
+Hadn’t it caught the rat? : O fareyi yakalamamış mıydı?
+
+Hadn’t we won the match? : Maçı biz kazanmamış mıydık?
+
+Hadn’t you sold the house to them? : Evi onlara satmamış mıydınız?
+
+Hadn’t they paid the debts? : Onlar borçlarını ödememişler miydi?
+
+9 – PRESENT PERFECT CONTINUOUS TENSE –MEKTE -MAKTA Olumlu, olumsuz ve soru şekillerini gösteren tablolar.
+
+POSITIVE / OLUMLU(+):
+
+I, you, we, they + have been verb-ing?  /  he, she, it + has been verb-ing?
+
+I have been reading a magazine. : Bir dergi okumaktayım.
+
+You have been watching TV since morning. : Sabahtan beri TV seyretmektesin.
+
+He has been studying English for two years. : O iki yıldır İngilizce çalışmakta.
+
+She has been making a cake for her birthday. : Doğum günü için kek yapmakta.
+
+It has been raining. : Yağmur yağmakta.
+
+We have been playing tennis. : Biz tenis oynamaktayız.
+
+You have been talking on the phone for half an hour. : Yarım saattir telefonda konuşmaktasın.
+
+They have been working hard. : Onlar yoğun çalışmaktalar.
+
+QUESTION / SORU(?):
+
+ have + I, you, we, they + been + verb-ing?  /  has + he, she, it + been + verb-ing?
+
+Have you been reading a magazine? : Dergi mi okumaktasın?
+
+Has he been studying English for two years? : O iki yıldır İngilizce mi çalışmakta?
+
+Has she been making a cake for her birthday? : Doğum günü için kek mi yapmakta?
+
+Has it been raining? : Yağmur mu yağmakta?
+
+Have you been playing tennis? : Tenis mi oynamaktasınız?
+
+Have they been working hard? : Onlar yoğun mu çalışmaktalar?
+
+NEGATIVE / OLUMSUZ(-):
+
+I, you, we, they + haven’t been + verb-ing  /  he, she, it + hasn’t been + verb-ing
+
+I haven’t been reading a magazine. : Ben bir dergi okumamaktayım.
+
+You haven’t been watching TV since morning. : Sabahtan beri TV seyretmemektesin.
+
+He hasn’t been studying English for two years. : O iki yıldır İngilizce çalışmamakta.
+
+She hasn’t been making a cake for her birthday. : Doğum günü için kek yapmamakta.
+
+It hasn’t been raining. : Yağmur yağmamakta.
+
+We haven’t been playing tennis. : Biz tenis oynamamaktayız.
+
+You haven’t been talking on the phone for half an hour. : Yarım saattir telefonda konuşmamaktasın.
+
+They haven’t been working hard. : Onlar yoğun çalışmamaktalar.
+
+10 – PAST PERFECT CONTINUOUS TENSE – MEKTEYDİ -MAKTAYDI Olumlu, olumsuz ve soru şekillerini gösteren tablolar.
+
+POSITIVE / OLUMLU(+):
+
+I, you, we, they, he, she, it + had been + verb-ing
+
+I had been reading a magazine. : Bir dergi okumaktaydım.
+
+You had been watching TV since morning. : Sabahtan beri TV seyretmekteydin.
+
+He had been studying English for two years. : O iki yıldır İngilizce çalışmaktaydı.
+
+She had been making a cake for her birthday. : Doğum günü için kek yapmaktaydı.
+
+It had been raining. : Yağmur yağmaktaydı.
+
+We had been playing tennis. : Biz tenis oynamaktaydı.
+
+You had been talking on the phone for half an hour. : Yarım saattir telefonda konuşmaktaydın.
+
+They have been working hard. : Onlar yoğun çalışmaktaydılar.
+
+QUESTION / SORU(?):
+
+ had + I, you, we, they, he, she, it + been + verb-ing?
+
+Had you been reading a magazine? : Dergi mi okumaktaydın?
+
+Had he been studying English for two years? : O iki yıldır İngilizce mi çalışmaktaydı?
+
+Had she been making a cake for her birthday? : Doğum günü için kek mi yapmaktaydı?
+
+Had it been raining? : Yağmur mu yağmaktaydı?
+
+Had you been playing tennis? : Tenis mi oynamaktaydınız?
+
+Had they been working hard? : Onlar yoğun mu çalışmaktaydılar?
+
+NEGATIVE / OLUMSUZ(-);
+
+I, you, we, they, he, she, it + hadn’t been + verb-ing
+
+I hadn’t been reading a magazine. : Ben bir dergi okumamaktayıdım
+
+You hadn’t been watching TV since morning. : Sabahtan beri TV seyretmemekteydin.
+
+He hadn’t been studying English for two years. : O iki yıldır İngilizce çalışmamaktaydı.
+
+She hadn’t been making a cake for her birthday. : Doğum günü için kek yapmamaktaydı.
+
+It hadn’t been raining. : Yağmur yağmamaktaydı.
+
+We hadn’t been playing tennis. : Biz tenis oynamamaktaydık.
+
+You hadn’t been talking on the phone for half an hour. : Yarım saattir telefonda konuşmamaktaydın.
+
+They hadn’t been working hard. : Onlar yoğun çalışmamaktaydılar.
+
+NEGATIVE QUESTION / OLUMSUZ SORU(-?);
+
+hadn’t + I, you, we, they, he, she, it + been + verb-ing?
+
+
+
+
+
+İngilizce Zamanlar konusunda görüşlerinizi yazarsanız seviniriz."
+                android:textSize="16dp" />
+
+
+        </LinearLayout>
+    </ScrollView>
+
+
+</RelativeLayout>

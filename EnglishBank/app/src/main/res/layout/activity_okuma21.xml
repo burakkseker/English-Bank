@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".okuma21">
+
+    <TextView
+        android:id="@+id/textView20"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="4dp"
+        android:layout_marginLeft="4dp"
+        android:layout_marginTop="4dp"
+        android:text="The TV reporter coughed. Then she coughed again. The other TV reporter was worried. “Are you okay?” he asked. She couldn't answer. She continued to cough. She coughed and coughed. The other reporter dialed 911. “What is the emergency?” the 911 person asked. “I think my friend is dying,” said the reporter. “What is your address?” asked the 911 person. “We are at 123 West Hill Street,” said the reporter. “Someone will be right there,” said the 911 person. But then the woman stopped coughing. She said she was fine. She said thanks to the other reporter. He said, “You're welcome.” He called 911 again. He said the emergency was over. He said his friend was okay. She would not die. She was going to live. The 911 person was glad to hear that."
+        android:textSize="16sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+</android.support.constraint.ConstraintLayout>

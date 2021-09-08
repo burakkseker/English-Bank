@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".okuma14">
+
+    <TextView
+        android:id="@+id/textView13"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="4dp"
+        android:layout_marginLeft="4dp"
+        android:layout_marginTop="6dp"
+        android:text="I am lonely. I am always by myself. I meet people every day. I smile at them. I say hello. I am nice to them. I want to have a friend. But I have no friends. What is wrong with me? I am polite. I am friendly. I am nice. I am kind. Why don't people like me? All I want is one friend. Everyone has one friend. I always see people with their friends. They laugh with each other. They have fun with each other. They do things with each other. What about me? I am by myself. I watch TV by myself. I go to movies by myself. I go to restaurants by myself. I go to the park by myself. I told my mother that I am lonely. She said it is my fault. “Why?” I asked. She said, “Because you never ask anyone to be with you.” My mom is right. I never ask people to be with me. I am afraid they will say no."
+        android:textSize="16sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+</android.support.constraint.ConstraintLayout>

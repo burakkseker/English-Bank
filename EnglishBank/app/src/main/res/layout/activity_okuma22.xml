@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".okuma22">
+
+    <TextView
+        android:id="@+id/textView21"
+        android:layout_width="0dp"
+        android:layout_height="295dp"
+        android:layout_marginStart="3dp"
+        android:layout_marginLeft="3dp"
+        android:layout_marginTop="4dp"
+        android:layout_marginEnd="3dp"
+        android:layout_marginRight="3dp"
+        android:text="Dark clouds were in the sky. The sun went down. The weather got cold. The wind started to blow. Leaves blew off the trees. Paper flew through the air. People buttoned their jackets. The rain started to fall. At first it was quiet. Then it got louder. It was a storm. The rain was very loud. The man couldn't hear his TV. He turned up the volume. Now he could hear his TV. He looked outside his door. He looked at the rain. It was pouring off his roof. It was a flood. Then he saw lightning. Then he heard thunder. It was a very cold night. The rain changed to hail. The hail was very noisy. He turned up the TV volume again. Now he could hear his TV again. He watched TV for a while. Then he looked outside again. All the cars were white. The street was white. The ground was white. The hail covered everything. The hail looked just like snow. He wanted to make a big snowman. But you can't make a snowman out of hail. You can only make a snowman out of snow."
+        android:textSize="13.5sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+</android.support.constraint.ConstraintLayout>

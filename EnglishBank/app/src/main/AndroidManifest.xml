@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.burak.englishbank">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".TensesandSentences" />
+        <activity android:name=".words" />
+        <activity android:name=".readtext" />
+        <activity android:name=".moreThan" />
+        <activity android:name=".podcast" />
+        <activity android:name=".readTamtext" />
+        <activity android:name=".okumametni" />
+        <activity android:name=".okumametni2" />
+        <activity android:name=".okuma3" />
+        <activity android:name=".okuma4" />
+        <activity android:name=".okuma5" />
+        <activity android:name=".okuma6" />
+        <activity android:name=".okuma7" />
+        <activity android:name=".okuma8" />
+        <activity android:name=".okuma9" />
+        <activity android:name=".okuma10" />
+        <activity android:name=".okuma11" />
+        <activity android:name=".okuma12" />
+        <activity android:name=".okuma13" />
+        <activity android:name=".okuma14" />
+        <activity android:name=".okuma15" />
+        <activity android:name=".okuma16" />
+        <activity android:name=".okuma17" />
+        <activity android:name=".okuma18" />
+        <activity android:name=".okuma19" />
+        <activity android:name=".okuma20" />
+        <activity android:name=".okuma21" />
+        <activity android:name=".okuma22" />
+        <activity android:name=".okuma23" />
+        <activity android:name=".okuma24" />
+        <activity android:name=".okuma25" />
+        <activity android:name=".okuma26" />
+        <activity android:name=".okuma27" />
+        <activity android:name=".okuma28" />
+        <activity android:name=".okuma29" />
+        <activity android:name=".okuma30" />
+        <activity android:name=".moreYonler" />
+        <activity android:name=".moreYerler" />
+        <activity android:name=".moreEbevenyler" />
+        <activity android:name=".moreMevsim" />
+        <activity android:name=".moreGiyim" />
+        <activity android:name=".moreUlasim" />
+        <activity android:name=".moreOrganlar" />
+        <activity android:name=".moreMeslekler" />
+        <activity android:name=".moreHayvanlar" />
+        <activity android:name=".moreSayilar" />
+        <activity android:name=".moreZamirler" />
+        <activity android:name=".moreKipler" />
+        <activity android:name=".moreSifatlar" />
+        <activity android:name=".moreEdatlar" />
+        <activity android:name=".moreBaglaclar" />
+        <activity android:name=".moreZarflar"></activity>
+    </application>
+
+</manifest>

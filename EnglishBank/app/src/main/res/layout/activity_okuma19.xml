@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".okuma19">
+
+    <TextView
+        android:id="@+id/textView18"
+        android:layout_width="wrap_content"
+        android:layout_height="258dp"
+        android:layout_marginStart="3dp"
+        android:layout_marginLeft="3dp"
+        android:layout_marginTop="5dp"
+        android:text="The husband and wife wanted to have a baby. They prayed for a baby. God answered their prayers. The doctor said they were going to have a baby. The wife asked, “How many?” The doctor said he didn't know yet. The husband and wife were very happy. Now they would have a baby. They both wanted to have a baby. They visited the doctor a month later. He examined the wife. He used a special machine. He saw the baby. He saw more than one baby. He saw two babies. He saw more than two babies. He counted the babies. He told the wife, “You will have more than one baby. You will have eight babies.” The wife couldn't believe it. Her husband couldn't believe it. Eight babies! “We will have a big family,” said the husband. “We will have a very big family,” said the wife. “But how can we pay for all these babies?” asked the husband. “We can pay for one baby. But eight babies cost a lot of money. How can we pay for eight babies?” The wife said, “We will find a way. God will help us find a way.” They both smiled. They would have a big happy family."
+        android:textSize="12.5sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+</android.support.constraint.ConstraintLayout>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".okuma24">
+
+    <TextView
+        android:id="@+id/textView23"
+        android:layout_width="wrap_content"
+        android:layout_height="287dp"
+        android:layout_marginStart="4dp"
+        android:layout_marginLeft="4dp"
+        android:layout_marginTop="3dp"
+        android:text="She had big brown eyes. Her sister had big blue eyes. Her brother had big green eyes. Her mother had a gray eye and a green eye. Her father had black eyes. “Why are our eyes different?” she asked her mom. “Who knows?” said her mom. “Life is strange. It is full of mystery. This is a mystery to all of us.” She asked her teacher. She asked the doctor. She asked the nurse. She asked the mailman. Nobody knew why her family had different color eyes. Finally she asked the librarian. A librarian reads a lot. A librarian works in the library. A librarian is surrounded by books. Books have information. Lots of information. The librarian looked in all her books. She called other librarians. They looked in all their books. Still, nobody knew the answer. “I'm sorry, little girl,” the librarian said. “Maybe someone will invent a computer someday. Then I will give you an answer. But for now, your big brown eyes and your sister's big blue eyes are a big mystery.”"
+        android:textSize="14.2sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+</android.support.constraint.ConstraintLayout>

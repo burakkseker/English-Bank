@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".okuma6">
+
+    <TextView
+        android:id="@+id/textView5"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="7dp"
+        android:layout_marginLeft="7dp"
+        android:layout_marginTop="2dp"
+        android:layout_marginEnd="7dp"
+        android:layout_marginRight="7dp"
+        android:text="He and his brother slept in a bunk bed. He had the bottom bunk. His brother had the top bunk. The top bunk had a guard rail. The rail kept the sleeper safe. His brother didn't like the rail. He always left it down. One time his brother fell out of the top bunk. He hit the carpet and woke up. He said, “Ouch!” Then he climbed back into the top bunk. When he woke up the next day, his back was sore. Mom took him to see the doctor. The doctor examined him. The doctor said he was okay. He said to keep the guard rail up. His brother said he would do that. That night his brother climbed into the top bunk again. He left the guard rail down. He said the guard rail was like jail. He didn't want to feel like he was in jail. He fell asleep. Then he fell out of the top bunk again."
+        android:textSize="16sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+</android.support.constraint.ConstraintLayout>

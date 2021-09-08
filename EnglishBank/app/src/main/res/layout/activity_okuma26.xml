@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".okuma26">
+
+    <TextView
+        android:id="@+id/textView25"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="4dp"
+        android:layout_marginLeft="4dp"
+        android:layout_marginTop="1dp"
+        android:text="He wanted to wash his hands. His hands were dirty. They were dirty from the newspaper. All newspapers have black ink. The black ink got on his hands. When he rubbed his nose, he put black ink on his nose. His wife looked at him. She laughed. “Why are you laughing?” he asked. She said his nose was black. She handed him a mirror. He looked in the mirror. He said, “Yes, you're right. I have black ink on my nose. I look a little bit funny.” “No, you look very funny,” his wife said. She laughed again. He went into the bathroom. He turned on the water. He picked up the bar of soap. He rubbed the soap between his hands. He washed his face. He rinsed his face with water. He looked in the bathroom mirror. His nose was clean. There was no ink on his nose. He walked out of the bathroom. He wanted to show his wife his new nose."
+        android:textSize="15sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+</android.support.constraint.ConstraintLayout>

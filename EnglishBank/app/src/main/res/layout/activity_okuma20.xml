@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".okuma20">
+
+    <TextView
+        android:id="@+id/textView19"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="6dp"
+        android:layout_marginLeft="6dp"
+        android:layout_marginTop="3dp"
+        android:layout_marginEnd="6dp"
+        android:layout_marginRight="6dp"
+        android:text="He had a blue car. He loved his blue car. It was dark blue. It had four doors. It was not a new car. It was an old car. But it had new tires. It had new black tires. All four tires were new. He felt safe with his new tires. They would not blow out. He could drive everywhere with his new tires. His car was dirty. He needed to wash it. The windows were dirty. The doors were dirty. The hood was dirty. The trunk was dirty. The bumpers were dirty. The tires weren't dirty. They were new tires. They were black and shiny. They looked good. He did not have to wash his tires. But he did have to wash his car. He put water into a bucket. He put a sponge into the bucket. He washed his car with the sponge. He dried his car with a towel. His car was shiny blue now. It looked like new. Now his old car was as shiny as his new tires."
+        android:textSize="16sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+</android.support.constraint.ConstraintLayout>

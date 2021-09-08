@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".okumametni2">
+
+    <TextView
+        android:id="@+id/textViewokuma2"
+        android:layout_width="0dp"
+        android:layout_height="482dp"
+        android:text="The baby was lying on her back. A blue bird flew in through the window. The blue bird had blue eyes. It sat on the baby's crib. The bird had a bell around its neck. The bell rang. The baby smiled. The baby reached for the bell. The bird shook its head. The bell fell off the bird's neck. It fell next to the baby. The baby picked up the bell. The baby rang the bell. Another blue bird flew in through the window. This blue bird also had blue eyes. The baby had brown eyes. The birds looked at the baby. The baby looked at the birds. The baby rang the bell again. Both birds flew away. The baby started to cry. His mama came into the room. The baby smiled. Mama saw the bell. She asked the baby where the bell came from. The baby pointed at the window."
+        android:textSize="18sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+</android.support.constraint.ConstraintLayout>

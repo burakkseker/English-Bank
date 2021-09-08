@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".okuma11"
+    tools:layout_editor_absoluteY="81dp">
+
+    <TextView
+        android:id="@+id/textView10"
+        android:layout_width="0dp"
+        android:layout_height="236dp"
+        android:layout_marginTop="16dp"
+        android:text="The two brothers loved each other. But sometimes they argued with each other. Sometimes they yelled at each other. Sometimes they pushed each other. Sometimes they hit each other. Sometimes they got into a fight with each other. Bobby was the older brother. Billy was the younger brother. Bobby was older than Billy. Billy was younger than Bobby. Bobby climbed into a tree. His kite was in the tree. He could not reach his kite. He fell out of the tree. Billy laughed. He laughed when he saw Bobby fall to the ground. Bobby was not hurt. But he was angry. “Why are you laughing?” he asked Billy. “That was funny!” Billy said. Bobby said it wasn't funny. Billy said it was funny. Bobby pushed Billy. Billy pushed Bobby. Bobby punched Billy in the stomach. Billy punched Bobby in the stomach. They put their arms around each other. They wrestled on the ground. They rolled around and around. Their mom came outside. “What are you two doing?” she asked. She separated them. She said, “You shouldn't hit each other. That's not nice. Wait till your father gets home.” She sent them to their rooms."
+        android:textSize="11sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+</android.support.constraint.ConstraintLayout>
